@@ -6,5 +6,5 @@ utilizando una variante de Cifrado César con clave múltiple. Este proyecto
 es un trabajo práctico de una materia introductoria de algorítmica 
 (Introducción a los Algoritmos, UNRC, 2024).
 VERSION or DATE: 0.1
-AUTHORS: Joaquin Fornasari
+AUTHORS: N. Aguirre - Joaquin Fornasari
 
